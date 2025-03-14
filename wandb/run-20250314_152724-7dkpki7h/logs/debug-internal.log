@@ -1,0 +1,7 @@
+{"time":"2025-03-14T15:27:24.796567783+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"/net/graphium/storage3/tingyuan/phi3v_sft_new/Phi3-Vision-Finetune/wandb/run-20250314_152724-7dkpki7h/logs/debug-core.log"}
+{"time":"2025-03-14T15:27:25.012262366+09:00","level":"INFO","msg":"created new stream","id":"7dkpki7h"}
+{"time":"2025-03-14T15:27:25.012283406+09:00","level":"INFO","msg":"stream: started","id":"7dkpki7h"}
+{"time":"2025-03-14T15:27:25.012320587+09:00","level":"INFO","msg":"handler: started","stream_id":"7dkpki7h"}
+{"time":"2025-03-14T15:27:25.014171404+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"7dkpki7h"}
+{"time":"2025-03-14T15:27:25.015698917+09:00","level":"INFO","msg":"sender: started","stream_id":"7dkpki7h"}
+{"time":"2025-03-14T15:27:25.317759336+09:00","level":"INFO","msg":"Starting system monitor"}
